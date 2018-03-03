@@ -12,7 +12,7 @@ It also informs road users about traffic congestions and accidents within a radi
 
 #### Traffic congestion notification
 
-  * When a any user what to post an occurrence of traffic jam  incident on a certain road, the app has just that capability of allowing him/her.
+  * When a any user what to post an occurrence of traffic jam  incident on a certain road, the app has just that capability of allowing him/her to do so.
 
   * Other users near the same road will then get the notification.
 
@@ -22,4 +22,4 @@ It also informs road users about traffic congestions and accidents within a radi
    * The app can as well be able to inform the police and Emergency response unit.
 
 #### Ensuring minimal interaction between the driver and the device
-   * The app detect movement of the car and if the user is the driver when the user tries to use the phone and then the app disables services that the driver was trying to use as well as disable other application mostly distract drivers when driving.
+   * The app detect movement of the car and if the user is the driver when the user tries to use the phone and then the app disables services that the driver was trying to use as well as disable other application that mostly distract drivers when driving.
