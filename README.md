@@ -13,4 +13,4 @@ It also informs road users about traffic congestions and accidents within a radi
 
 * Traffic congestion notification
 
-  * When a
+  * When a any user what to post an occurrence of traffic jam     incident on a certain road, the app has just that capability of allowing him/her.
